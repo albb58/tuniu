@@ -1,0 +1,9 @@
+export const NAV_ADV = 'NAV_ADV'
+export const DETAIL_ADV = 'DETAIL_ADV'
+export const PDHEAD = 'PDHEAD'
+export const PDLIST = 'PDLIST'//商品滚动栏数据
+export const PDSECLIST = 'PDSECLIST'//二级菜单数据角标更改
+export const PDLIST_API_PAGE = 'PDLIST_API_PAGE'//首页下拉商品列表的请求所以要的当前page
+export const PDLIST_API_PAGE_NUM = 'PDLIST_API_PAGE_NUM'
+export const NEWPDLIST = 'NEWPDLIST'
+export const NEWAPIID = 'NEWAPIID'
